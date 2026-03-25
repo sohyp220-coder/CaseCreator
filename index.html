@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sohyp220-coder/WolfStyle@main/WolfStyle.css">
+    <style type="text/css" media="all">
+        .cont {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+        .loading {
+            display: none;
+            width: 30px;
+            height: 30px;
+            border: 5px #E3E3E3 solid;
+            border-right: #1D9C34 solid 5px;
+            border-radius: 50%;
+            animation: spin infinite 1s ease;
+            transition: 1s;
+            
+        }
+        .l {
+            display: none;
+            font-size: 13px;
+            font-weight: 20px;
+            font-family: 'Times New Roman', Times, sans-serif;
+        }
+        @keyframes spin {
+            from {
+                transform: rotate(0deg);
+            }
+            to {
+                transform: rotate(360deg);
+            }
+        }
+    </style>
+    <title>Stock Creater</title>
+</head>
+<body>
+  <div class="card-container">
+      <input type="text" class="btn btn-p" placeholder="enter your phone type" id="phoneType">
+      <br>
+      <br>
+      <input type="file" name="" id="" class="btn btn-p" style="width: 200px;">
+      <br><br>
+      <button class="btn btn-S">CREATE</button>
+  </div>
+  <div class="cont">
+    <div class="loading"></div>
+    <div class="l">creating your style please wait ...</div>
+  </div>
+  <canvas id="canvas">
+      
+  </canvas>
+  <div class="card-container">
+      <div class="container">CONTACT</div>
+      <span>WhatsApp</span>
+      <a href="https://wa.me/20 ">01020929052</a>
+  </div>
+  <script type="text/javascript" charset="utf-8" src="script.js">
+  </script>
+</body>
+</html>
