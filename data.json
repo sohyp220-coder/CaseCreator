@@ -3,277 +3,166 @@
     {
       "name": "iphone",
       "brands": [
-        {
-          "name": "iphone 13",
-          "cameraPosition": {
-            "x": 40,
-            "y": 40,
-            "width": 90,
-            "height": 90,
-            "radius": 20
-          }
-        },
-        {
-          "name": "iphone 13 pro",
-          "cameraPosition": {
-            "x": 40,
-            "y": 40,
-            "width": 90,
-            "height": 90,
-            "radius": 20
-          }
-        },
-        {
-          "name": "iphone 12",
-          "cameraPosition": {
-            "x": 40,
-            "y": 40,
-            "width": 90,
-            "height": 90,
-            "radius": 20
-          }
-        },
-        {
-          "name": "iphone 11",
-          "cameraPosition": {
-            "x": 40,
-            "y": 40,
-            "width": 90,
-            "height": 90,
-            "radius": 20
-          }
-        },
-        {
-          "name": "iphone 10",
-          "cameraPosition": {
-            "x": 40,
-            "y": 40,
-            "width": 90,
-            "height": 90,
-            "radius": 20
-          }
-        }
+        {"name": "iphone 16 pro max", "cameraPosition": {"x": 40, "y": 40, "width": 110, "height": 110, "radius": 25}},
+        {"name": "iphone 15", "cameraPosition": {"x": 40, "y": 40, "width": 95, "height": 95, "radius": 20}},
+        {"name": "iphone 14 pro", "cameraPosition": {"x": 40, "y": 40, "width": 100, "height": 100, "radius": 22}},
+        {"name": "iphone 13 mini", "cameraPosition": {"x": 35, "y": 35, "width": 80, "height": 80, "radius": 15}},
+        {"name": "iphone 12", "cameraPosition": {"x": 40, "y": 40, "width": 85, "height": 85, "radius": 18}},
+        {"name": "iphone 11 pro", "cameraPosition": {"x": 40, "y": 40, "width": 90, "height": 90, "radius": 20}},
+        {"name": "iphone xs max", "cameraPosition": {"x": 35, "y": 35, "width": 45, "height": 95, "radius": 25}},
+        {"name": "iphone x", "cameraPosition": {"x": 35, "y": 35, "width": 40, "height": 90, "radius": 20}},
+        {"name": "iphone 8 plus", "cameraPosition": {"x": 30, "y": 30, "width": 80, "height": 40, "radius": 10}},
+        {"name": "iphone 7", "cameraPosition": {"x": 30, "y": 30, "width": 40, "height": 40, "radius": 20}},
+        {"name": "iphone 6s", "cameraPosition": {"x": 30, "y": 30, "width": 35, "height": 35, "radius": 17}},
+        {"name": "iphone 5s", "cameraPosition": {"x": 25, "y": 25, "width": 30, "height": 30, "radius": 15}},
+        {"name": "iphone 4s", "cameraPosition": {"x": 35, "y": 35, "width": 25, "height": 25, "radius": 12}},
+        {"name": "iphone se 2022", "cameraPosition": {"x": 30, "y": 30, "width": 45, "height": 45, "radius": 20}},
+        {"name": "iphone 16 plus", "cameraPosition": {"x": 40, "y": 40, "width": 95, "height": 95, "radius": 20}},
+        {"name": "iphone 15 pro", "cameraPosition": {"x": 40, "y": 40, "width": 105, "height": 105, "radius": 22}},
+        {"name": "iphone 14 plus", "cameraPosition": {"x": 40, "y": 40, "width": 95, "height": 95, "radius": 20}},
+        {"name": "iphone 13 pro max", "cameraPosition": {"x": 40, "y": 40, "width": 100, "height": 100, "radius": 22}},
+        {"name": "iphone 11", "cameraPosition": {"x": 40, "y": 40, "width": 85, "height": 85, "radius": 20}},
+        {"name": "iphone xr", "cameraPosition": {"x": 35, "y": 35, "width": 45, "height": 45, "radius": 22}}
       ]
     },
     {
       "name": "samsung",
       "brands": [
-        {
-          "name": "samsung galaxy s22",
-          "cameraPosition": {
-            "x": 40,
-            "y": 40,
-            "width": 70,
-            "height": 170,
-            "radius": 15
-          }
-        },
-        {
-          "name": "samsung galaxy s21",
-          "cameraPosition": {
-            "x": 40,
-            "y": 40,
-            "width": 70,
-            "height": 170,
-            "radius": 15
-          }
-        },
-        {
-          "name": "samsung galaxy s20",
-          "cameraPosition": {
-            "x": 40,
-            "y": 40,
-            "width": 70,
-            "height": 170,
-            "radius": 15
-          }
-        },
-        {
-          "name": "samsung galaxy note 20",
-          "cameraPosition": {
-            "x": 40,
-            "y": 40,
-            "width": 70,
-            "height": 170,
-            "radius": 15
-          }
-        },
-        {
-          "name": "samsung galaxy a52",
-          "cameraPosition": {
-            "x": 40,
-            "y": 40,
-            "width": 70,
-            "height": 170,
-            "radius": 15
-          }
-        }
-      ]
-    },
-    {
-      "name": "oppo",
-      "brands": [
-        {
-          "name": "oppo find x3",
-          "cameraPosition": {
-            "x": 30,
-            "y": 30,
-            "width": 120,
-            "height": 40,
-            "radius": 10
-          }
-        },
-        {
-          "name": "oppo reno ace",
-          "cameraPosition": {
-            "x": 30,
-            "y": 30,
-            "width": 120,
-            "height": 40,
-            "radius": 10
-          }
-        },
-        {
-          "name": "oppo reno 4",
-          "cameraPosition": {
-            "x": 30,
-            "y": 30,
-            "width": 120,
-            "height": 40,
-            "radius": 10
-          }
-        },
-        {
-          "name": "oppo a52",
-          "cameraPosition": {
-            "x": 30,
-            "y": 30,
-            "width": 120,
-            "height": 40,
-            "radius": 10
-          }
-        },
-        {
-          "name": "oppo a72",
-          "cameraPosition": {
-            "x": 30,
-            "y": 30,
-            "width": 120,
-            "height": 40,
-            "radius": 10
-          }
-        }
+        {"name": "samsung s24 ultra", "cameraPosition": {"x": 35, "y": 35, "width": 80, "height": 220, "radius": 10}},
+        {"name": "samsung s23 fe", "cameraPosition": {"x": 45, "y": 45, "width": 60, "height": 180, "radius": 30}},
+        {"name": "samsung s22 plus", "cameraPosition": {"x": 40, "y": 40, "width": 75, "height": 175, "radius": 15}},
+        {"name": "samsung s21 ultra", "cameraPosition": {"x": 35, "y": 35, "width": 90, "height": 190, "radius": 12}},
+        {"name": "samsung s20", "cameraPosition": {"x": 40, "y": 40, "width": 65, "height": 140, "radius": 15}},
+        {"name": "samsung s10 plus", "cameraPosition": {"x": 50, "y": 40, "width": 110, "height": 45, "radius": 22}},
+        {"name": "samsung s9", "cameraPosition": {"x": 180, "y": 60, "width": 40, "height": 85, "radius": 10}},
+        {"name": "samsung s8", "cameraPosition": {"x": 160, "y": 55, "width": 90, "height": 45, "radius": 10}},
+        {"name": "samsung note 20 ultra", "cameraPosition": {"x": 35, "y": 35, "width": 90, "height": 185, "radius": 12}},
+        {"name": "samsung note 10", "cameraPosition": {"x": 40, "y": 40, "width": 55, "height": 130, "radius": 27}},
+        {"name": "samsung note 9", "cameraPosition": {"x": 120, "y": 60, "width": 160, "height": 65, "radius": 5}},
+        {"name": "samsung a55", "cameraPosition": {"x": 45, "y": 45, "width": 65, "height": 190, "radius": 32}},
+        {"name": "samsung a34", "cameraPosition": {"x": 45, "y": 45, "width": 60, "height": 175, "radius": 30}},
+        {"name": "samsung a15", "cameraPosition": {"x": 40, "y": 40, "width": 65, "height": 185, "radius": 32}},
+        {"name": "samsung z fold 5", "cameraPosition": {"x": 30, "y": 30, "width": 65, "height": 165, "radius": 15}},
+        {"name": "samsung z flip 5", "cameraPosition": {"x": 40, "y": 40, "width": 130, "height": 65, "radius": 20}},
+        {"name": "samsung m54", "cameraPosition": {"x": 40, "y": 40, "width": 65, "height": 180, "radius": 32}},
+        {"name": "samsung j7 prime", "cameraPosition": {"x": 180, "y": 70, "width": 45, "height": 45, "radius": 10}},
+        {"name": "samsung s7 edge", "cameraPosition": {"x": 175, "y": 65, "width": 55, "height": 55, "radius": 5}},
+        {"name": "samsung grand prime", "cameraPosition": {"x": 170, "y": 80, "width": 65, "height": 65, "radius": 5}}
       ]
     },
     {
       "name": "huawei",
       "brands": [
-        {
-          "name": "huawei p40",
-          "cameraPosition": {
-            "x": 50,
-            "y": 50,
-            "width": 80,
-            "height": 80,
-            "radius": 25
-          }
-        },
-        {
-          "name": "huawei p30",
-          "cameraPosition": {
-            "x": 50,
-            "y": 50,
-            "width": 80,
-            "height": 80,
-            "radius": 25
-          }
-        },
-        {
-          "name": "huawei mate 30",
-          "cameraPosition": {
-            "x": 50,
-            "y": 50,
-            "width": 80,
-            "height": 80,
-            "radius": 25
-          }
-        },
-        {
-          "name": "huawei nova 7",
-          "cameraPosition": {
-            "x": 50,
-            "y": 50,
-            "width": 80,
-            "height": 80,
-            "radius": 25
-          }
-        },
-        {
-          "name": "huawei y9",
-          "cameraPosition": {
-            "x": 50,
-            "y": 50,
-            "width": 80,
-            "height": 80,
-            "radius": 25
-          }
-        }
+        {"name": "huawei p60 pro", "cameraPosition": {"x": 40, "y": 40, "width": 95, "height": 165, "radius": 45}},
+        {"name": "huawei p50 pro", "cameraPosition": {"x": 40, "y": 40, "width": 90, "height": 180, "radius": 45}},
+        {"name": "huawei p40 lite", "cameraPosition": {"x": 40, "y": 40, "width": 85, "height": 85, "radius": 15}},
+        {"name": "huawei p30 pro", "cameraPosition": {"x": 35, "y": 35, "width": 55, "height": 145, "radius": 27}},
+        {"name": "huawei p20 pro", "cameraPosition": {"x": 35, "y": 35, "width": 45, "height": 130, "radius": 22}},
+        {"name": "huawei p10", "cameraPosition": {"x": 30, "y": 30, "width": 110, "height": 35, "radius": 5}},
+        {"name": "huawei mate 60 rs", "cameraPosition": {"x": 75, "y": 75, "width": 250, "height": 250, "radius": 125}},
+        {"name": "huawei mate 50 pro", "cameraPosition": {"x": 80, "y": 80, "width": 240, "height": 240, "radius": 120}},
+        {"name": "huawei mate 30 pro", "cameraPosition": {"x": 100, "y": 100, "width": 200, "height": 200, "radius": 100}},
+        {"name": "huawei mate 20 pro", "cameraPosition": {"x": 150, "y": 50, "width": 100, "height": 100, "radius": 15}},
+        {"name": "huawei nova 12i", "cameraPosition": {"x": 100, "y": 100, "width": 200, "height": 200, "radius": 100}},
+        {"name": "huawei nova 11 pro", "cameraPosition": {"x": 40, "y": 40, "width": 85, "height": 155, "radius": 42}},
+        {"name": "huawei nova 9", "cameraPosition": {"x": 40, "y": 40, "width": 90, "height": 160, "radius": 45}},
+        {"name": "huawei nova 7i", "cameraPosition": {"x": 40, "y": 40, "width": 80, "height": 80, "radius": 15}},
+        {"name": "huawei y9 prime 2019", "cameraPosition": {"x": 35, "y": 35, "width": 50, "height": 110, "radius": 25}},
+        {"name": "huawei y7 prime", "cameraPosition": {"x": 35, "y": 35, "width": 45, "height": 95, "radius": 22}},
+        {"name": "huawei y6p", "cameraPosition": {"x": 40, "y": 40, "width": 55, "height": 120, "radius": 27}},
+        {"name": "huawei mate x5", "cameraPosition": {"x": 50, "y": 50, "width": 140, "height": 140, "radius": 30}},
+        {"name": "huawei p smart", "cameraPosition": {"x": 35, "y": 35, "width": 45, "height": 95, "radius": 22}},
+        {"name": "huawei honor 8x", "cameraPosition": {"x": 35, "y": 35, "width": 45, "height": 95, "radius": 22}}
       ]
     },
     {
       "name": "xiaomi",
       "brands": [
-        {
-          "name": "xiaomi mi 11",
-          "cameraPosition": {
-            "x": 60,
-            "y": 60,
-            "width": 60,
-            "height": 60,
-            "radius": 30
-          }
-        },
-        {
-          "name": "xiaomi mi 10",
-          "cameraPosition": {
-            "x": 60,
-            "y": 60,
-            "width": 60,
-            "height": 60,
-            "radius": 30
-          }
-        },
-        {
-          "name": "xiaomi redmi note 10",
-          "cameraPosition": {
-            "x": 60,
-            "y": 60,
-            "width": 60,
-            "height": 60,
-            "radius": 30
-          }
-        },
-        {
-          "name": "xiaomi redmi 9",
-          "cameraPosition": {
-            "x": 60,
-            "y": 60,
-            "width": 60,
-            "height": 60,
-            "radius": 30
-          }
-        },
-        {
-          "name": "xiaomi mi 9",
-          "cameraPosition": {
-            "x": 60,
-            "y": 60,
-            "width": 60,
-            "height": 60,
-            "radius": 30
-          }
-        }
+        {"name": "xiaomi 14 ultra", "cameraPosition": {"x": 75, "y": 100, "width": 250, "height": 250, "radius": 125}},
+        {"name": "xiaomi 13t pro", "cameraPosition": {"x": 40, "y": 40, "width": 110, "height": 120, "radius": 15}},
+        {"name": "xiaomi 12 pro", "cameraPosition": {"x": 40, "y": 40, "width": 95, "height": 155, "radius": 18}},
+        {"name": "xiaomi mi 11 ultra", "cameraPosition": {"x": 30, "y": 40, "width": 340, "height": 140, "radius": 20}},
+        {"name": "xiaomi mi 10t", "cameraPosition": {"x": 40, "y": 40, "width": 85, "height": 160, "radius": 15}},
+        {"name": "xiaomi mi 9", "cameraPosition": {"x": 35, "y": 35, "width": 45, "height": 135, "radius": 22}},
+        {"name": "xiaomi mi 8", "cameraPosition": {"x": 35, "y": 35, "width": 45, "height": 100, "radius": 22}},
+        {"name": "redmi note 13 pro+", "cameraPosition": {"x": 45, "y": 45, "width": 120, "height": 125, "radius": 20}},
+        {"name": "redmi note 12", "cameraPosition": {"x": 40, "y": 40, "width": 85, "height": 150, "radius": 15}},
+        {"name": "redmi note 11", "cameraPosition": {"x": 40, "y": 40, "width": 80, "height": 145, "radius": 12}},
+        {"name": "redmi note 10 pro", "cameraPosition": {"x": 40, "y": 40, "width": 75, "height": 155, "radius": 15}},
+        {"name": "redmi note 9s", "cameraPosition": {"x": 140, "y": 50, "width": 120, "height": 140, "radius": 10}},
+        {"name": "redmi note 8 pro", "cameraPosition": {"x": 150, "y": 50, "width": 100, "height": 180, "radius": 50}},
+        {"name": "redmi note 7", "cameraPosition": {"x": 35, "y": 35, "width": 50, "height": 110, "radius": 25}},
+        {"name": "redmi 13c", "cameraPosition": {"x": 40, "y": 40, "width": 90, "height": 160, "radius": 15}},
+        {"name": "redmi 10", "cameraPosition": {"x": 40, "y": 40, "width": 75, "height": 145, "radius": 15}},
+        {"name": "poco f5 pro", "cameraPosition": {"x": 45, "y": 45, "width": 95, "height": 165, "radius": 15}},
+        {"name": "poco x6 pro", "cameraPosition": {"x": 50, "y": 50, "width": 140, "height": 140, "radius": 20}},
+        {"name": "poco x3 pro", "cameraPosition": {"x": 100, "y": 40, "width": 200, "height": 130, "radius": 65}},
+        {"name": "black shark 5", "cameraPosition": {"x": 60, "y": 40, "width": 280, "height": 90, "radius": 15}}
       ]
-    }
+    },
+    {
+      "name": "oppo",
+      "brands": [
+        {"name": "oppo find x7 ultra", "cameraPosition": {"x": 75, "y": 80, "width": 250, "height": 250, "radius": 125}},
+        {"name": "oppo find x5 pro", "cameraPosition": {"x": 40, "y": 40, "width": 130, "height": 150, "radius": 35}},
+        {"name": "oppo find x3 pro", "cameraPosition": {"x": 40, "y": 40, "width": 120, "height": 135, "radius": 30}},
+        {"name": "oppo find x", "cameraPosition": {"x": 0, "y": 0, "width": 400, "height": 100, "radius": 0}},
+        {"name": "oppo reno 11 pro", "cameraPosition": {"x": 40, "y": 40, "width": 90, "height": 170, "radius": 45}},
+        {"name": "oppo reno 10", "cameraPosition": {"x": 40, "y": 40, "width": 85, "height": 160, "radius": 42}},
+        {"name": "oppo reno 8", "cameraPosition": {"x": 35, "y": 35, "width": 110, "height": 140, "radius": 20}},
+        {"name": "oppo reno 7", "cameraPosition": {"x": 35, "y": 35, "width": 95, "height": 135, "radius": 15}},
+        {"name": "oppo reno 6", "cameraPosition": {"x": 35, "y": 35, "width": 85, "height": 130, "radius": 12}},
+        {"name": "oppo reno 5", "cameraPosition": {"x": 40, "y": 40, "width": 80, "height": 145, "radius": 15}},
+        {"name": "oppo reno 4 pro", "cameraPosition": {"x": 40, "y": 40, "width": 75, "height": 140, "radius": 12}},
+        {"name": "oppo a98", "cameraPosition": {"x": 45, "y": 45, "width": 85, "height": 170, "radius": 40}},
+        {"name": "oppo a78", "cameraPosition": {"x": 45, "y": 45, "width": 80, "height": 175, "radius": 40}},
+        {"name": "oppo a58", "cameraPosition": {"x": 40, "y": 40, "width": 75, "height": 160, "radius": 37}},
+        {"name": "oppo a54", "cameraPosition": {"x": 40, "y": 40, "width": 85, "height": 105, "radius": 15}},
+        {"name": "oppo a17", "cameraPosition": {"x": 45, "y": 45, "width": 70, "height": 160, "radius": 35}},
+        {"name": "oppo f21 pro", "cameraPosition": {"x": 40, "y": 40, "width": 95, "height": 115, "radius": 15}},
+        {"name": "oppo f19", "cameraPosition": {"x": 40, "y": 40, "width": 75, "height": 125, "radius": 12}},
+        {"name": "oppo f11 pro", "cameraPosition": {"x": 155, "y": 40, "width": 90, "height": 150, "radius": 45}},
+        {"name": "oppo k11", "cameraPosition": {"x": 45, "y": 45, "width": 85, "height": 175, "radius": 42}}
+      ]
+    },
+    {
+      "name": "realme",
+      "brands": [
+        {"name": "realme gt5 pro", "cameraPosition": {"x": 80, "y": 80, "width": 240, "height": 240, "radius": 120}},
+        {"name": "realme 12 pro+", "cameraPosition": {"x": 85, "y": 85, "width": 230, "height": 230, "radius": 115}},
+        {"name": "realme 11 pro", "cameraPosition": {"x": 90, "y": 90, "width": 220, "height": 220, "radius": 110}},
+        {"name": "realme 10 pro", "cameraPosition": {"x": 40, "y": 40, "width": 85, "height": 180, "radius": 42}},
+        {"name": "realme 9i", "cameraPosition": {"x": 40, "y": 40, "width": 85, "height": 150, "radius": 15}},
+        {"name": "realme 8 pro", "cameraPosition": {"x": 40, "y": 40, "width": 100, "height": 110, "radius": 12}},
+        {"name": "realme 7", "cameraPosition": {"x": 40, "y": 40, "width": 75, "height": 165, "radius": 12}},
+        {"name": "realme 6 pro", "cameraPosition": {"x": 35, "y": 35, "width": 80, "height": 155, "radius": 15}},
+        {"name": "realme 5 pro", "cameraPosition": {"x": 35, "y": 35, "width": 55, "height": 140, "radius": 27}},
+        {"name": "realme gt neo 5", "cameraPosition": {"x": 40, "y": 40, "width": 140, "height": 160, "radius": 20}},
+        {"name": "realme c67", "cameraPosition": {"x": 45, "y": 45, "width": 90, "height": 175, "radius": 45}},
+        {"name": "realme c55", "cameraPosition": {"x": 45, "y": 45, "width": 85, "height": 170, "radius": 42}},
+        {"name": "realme c35", "cameraPosition": {"x": 40, "y": 40, "width": 85, "height": 135, "radius": 12}},
+        {"name": "realme c21y", "cameraPosition": {"x": 40, "y": 40, "width": 80, "height": 80, "radius": 15}},
+        {"name": "realme narzo 60", "cameraPosition": {"x": 100, "y": 100, "width": 200, "height": 200, "radius": 100}},
+        {"name": "realme x7 pro", "cameraPosition": {"x": 40, "y": 40, "width": 90, "height": 145, "radius": 15}},
+        {"name": "realme xt", "cameraPosition": {"x": 35, "y": 35, "width": 45, "height": 140, "radius": 22}},
+        {"name": "realme 3 pro", "cameraPosition": {"x": 35, "y": 35, "width": 45, "height": 95, "radius": 22}},
+        {"name": "realme gt master", "cameraPosition": {"x": 35, "y": 35, "width": 75, "height": 155, "radius": 12}},
+        {"name": "realme v25", "cameraPosition": {"x": 40, "y": 40, "width": 85, "height": 150, "radius": 15}}
+      ]
+    },
+    { "name": "vivo", "brands": [{"name": "vivo x100 pro", "cameraPosition": {"x": 80, "y": 80, "width": 240, "height": 240, "radius": 120}}, {"name": "vivo v30", "cameraPosition": {"x": 40, "y": 40, "width": 110, "height": 170, "radius": 20}}] },
+    { "name": "google", "brands": [{"name": "pixel 9 pro xl", "cameraPosition": {"x": 0, "y": 60, "width": 400, "height": 100, "radius": 50}}, {"name": "pixel 8", "cameraPosition": {"x": 0, "y": 60, "width": 400, "height": 90, "radius": 45}}] },
+    { "name": "infinix", "brands": [{"name": "infinix note 40 pro", "cameraPosition": {"x": 50, "y": 50, "width": 130, "height": 130, "radius": 15}}, {"name": "infinix zero 30", "cameraPosition": {"x": 40, "y": 40, "width": 110, "height": 150, "radius": 20}}] },
+    { "name": "sony", "brands": [{"name": "xperia 1 v", "cameraPosition": {"x": 35, "y": 40, "width": 50, "height": 160, "radius": 25}}, {"name": "xperia 5 iv", "cameraPosition": {"x": 35, "y": 40, "width": 45, "height": 140, "radius": 22}}] },
+    { "name": "motorola", "brands": [{"name": "edge 50 pro", "cameraPosition": {"x": 40, "y": 40, "width": 110, "height": 130, "radius": 25}}, {"name": "razr 40 ultra", "cameraPosition": {"x": 40, "y": 40, "width": 150, "height": 80, "radius": 20}}] },
+    { "name": "nokia", "brands": [{"name": "nokia g42", "cameraPosition": {"x": 40, "y": 40, "width": 80, "height": 150, "radius": 15}}, {"name": "nokia 9 pureview", "cameraPosition": {"x": 100, "y": 60, "width": 200, "height": 200, "radius": 100}}] },
+    { "name": "oneplus", "brands": [{"name": "oneplus 12", "cameraPosition": {"x": 40, "y": 60, "width": 180, "height": 180, "radius": 90}}, {"name": "oneplus 11", "cameraPosition": {"x": 40, "y": 60, "width": 170, "height": 170, "radius": 85}}] },
+    { "name": "tecno", "brands": [{"name": "phantom x2 pro", "cameraPosition": {"x": 80, "y": 80, "width": 240, "height": 240, "radius": 40}}, {"name": "camon 30 premier", "cameraPosition": {"x": 50, "y": 50, "width": 150, "height": 150, "radius": 20}}] },
+    { "name": "honor", "brands": [{"name": "honor magic 6 pro", "cameraPosition": {"x": 85, "y": 85, "width": 230, "height": 230, "radius": 115}}, {"name": "honor 90", "cameraPosition": {"x": 45, "y": 45, "width": 90, "height": 190, "radius": 45}}] },
+    { "name": "asus", "brands": [{"name": "rog phone 8", "cameraPosition": {"x": 40, "y": 40, "width": 120, "height": 110, "radius": 15}}, {"name": "zenfone 10", "cameraPosition": {"x": 40, "y": 40, "width": 90, "height": 140, "radius": 45}}] },
+    { "name": "nothing", "brands": [{"name": "nothing phone 2", "cameraPosition": {"x": 45, "y": 45, "width": 60, "height": 140, "radius": 30}}, {"name": "nothing phone 2a", "cameraPosition": {"x": 120, "y": 150, "width": 160, "height": 80, "radius": 40}}] },
+    { "name": "zte", "brands": [{"name": "nubia z60 ultra", "cameraPosition": {"x": 30, "y": 30, "width": 180, "height": 240, "radius": 10}}, {"name": "axon 50 ultra", "cameraPosition": {"x": 40, "y": 40, "width": 100, "height": 150, "radius": 15}}] },
+    { "name": "meizu", "brands": [{"name": "meizu 21 pro", "cameraPosition": {"x": 40, "y": 40, "width": 60, "height": 220, "radius": 30}}, {"name": "meizu 20", "cameraPosition": {"x": 40, "y": 40, "width": 60, "height": 200, "radius": 30}}] },
+    { "name": "htc", "brands": [{"name": "u23 pro", "cameraPosition": {"x": 40, "y": 40, "width": 90, "height": 130, "radius": 15}}, {"name": "m8 (classic)", "cameraPosition": {"x": 160, "y": 40, "width": 80, "height": 80, "radius": 40}}] }
   ]
 }
